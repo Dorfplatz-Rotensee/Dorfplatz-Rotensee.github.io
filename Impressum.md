@@ -12,8 +12,8 @@ Zur Burg 24
 36282 Hauneck  
 
 Vertreten durch:  
-1. Vorsitz: Herr Markus Zielke  
-3. Vorsitz: Herr Norman Fraatz  
+Erster Vorsitz: Herr Markus Zielke  
+Zweiter Vorsitz: Herr Norman Fraatz  
 Kasse: Frau Friederike Schwarz  
 Schriftührung: Frau Marion Hümmelink  
 
