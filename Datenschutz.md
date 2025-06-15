@@ -18,9 +18,8 @@ Erster Vorsitzender Markus Zielke
 E-Mail: Forderverein-Dorfplatz-Rotensee (at) gmx.de
 
 ## Zweck der Verarbeitung
-
-– Zurverfügungstellung des Onlineangebotes, seiner Funktionen und Inhalte
-– Beantwortung von Kontaktanfragen und Kommunikation mit Nutzern.  
+– Zurverfügungstellung des Onlineangebotes, seiner Funktionen und Inhalte.
+– Beantwortung von Kontaktanfragen und Kommunikation mit Nutzern.
 – Sicherheitsmaßnahmen.
 
 ## Verwendete Begrifflichkeiten
@@ -59,9 +58,6 @@ Sie haben das Recht, erteilte Einwilligungen gem. Art. 7 Abs. 3 DSGVO mit Wirkun
 ## Widerspruchsrecht
 Sie können der künftigen Verarbeitung der Sie betreffenden Daten nach Maßgabe des Art. 21 DSGVO jederzeit widersprechen. Der Widerspruch kann insbesondere gegen die Verarbeitung für Zwecke der Direktwerbung erfolgen.
 
-## Bereitstellung als statische Seite
-Dies ist eine statische Website, d.h. die Seiten dieses Internetauftritts liegen vorgefertigt auf dem Web-Server des Hosters und werden unverändert ausgeliefert, sobald Sie im Browser unsere URL eingeben oder auf einen Link auf unserer Seite klicken.
-
 ## Cookies und Widerspruchsrecht bei Direktwerbung
 Als „Cookies“ werden kleine Dateien bezeichnet, die auf Rechnern der Nutzer gespeichert werden. Innerhalb der Cookies können unterschiedliche Angaben gespeichert werden. Ein Cookie dient primär dazu, die Angaben zu einem Nutzer (bzw. dem Gerät auf dem das Cookie gespeichert ist) während oder auch nach seinem Besuch innerhalb eines Onlineangebotes zu speichern. Als temporäre Cookies, bzw. „Session-Cookies“ oder „transiente Cookies“, werden Cookies bezeichnet, die gelöscht werden, nachdem ein Nutzer ein Onlineangebot verlässt und seinen Browser schließt. In einem solchen Cookie kann z.B. der Inhalt eines Warenkorbs in einem Onlineshop oder ein Login-Staus gespeichert werden. Als „permanent“ oder „persistent“ werden Cookies bezeichnet, die auch nach dem Schließen des Browsers gespeichert bleiben. So kann z.B. der Login-Status gespeichert werden, wenn die Nutzer diese nach mehreren Tagen aufsuchen. Ebenso können in einem solchen Cookie die Interessen der Nutzer gespeichert werden, die für Reichweitenmessung oder Marketingzwecke verwendet werden. Als „Third-Party-Cookie“ werden Cookies bezeichnet, die von anderen Anbietern als dem Verantwortlichen, der das Onlineangebot betreibt, angeboten werden (andernfalls, wenn es nur dessen Cookies sind spricht man von „First-Party Cookies“).
 
@@ -74,7 +70,7 @@ Die von uns verarbeiteten Daten werden nach Maßgabe der Art. 17 und 18 DSGVO ge
 Die von uns in Anspruch genommenen Hosting-Leistungen dienen der Zurverfügungstellung der folgenden Leistungen: Infrastruktur- und Plattformdienstleistungen, Rechenkapazität, Speicherplatz, Sicherheitsleistungen sowie technische Wartungsleistungen, die wir zum Zwecke des Betriebs dieses Onlineangebotes einsetzen.
 
 Diese Website wird als statische Seite auf GitHub Pages-Website gehostet. GitHub kann personenbezogene Daten von Besuchern dieser GitHub Pages-Website erfassen, einschließlich Protokollen der Besucher-IP-Adressen, um gesetzlichen Verpflichtungen nachzukommen und die Sicherheit und Integrität dieser Website und des Dienstes zu gewährleisten. 
-Weitere Informationen finden Sie in der Datenschutzerklärung von GitHub unter: https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement
+Weitere Informationen finden Sie in der Datenschutzerklärung von GitHub unter: [Github Privacy Statement](https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement)
 
 Github Inc.  
 88 Colin P Kelly Jr St  
@@ -84,11 +80,15 @@ USA
 
 Bitte beachten Sie zudem die [GitHub Privacy Policy](https://help.github.com/articles/github-privacy-policy/) und [GitHub Global Privacy](https://help.github.com/articles/global-privacy-practices/) Practices.
 
+## Bereitstellung als statische Seite
+Dies ist eine statische Website, d.h. die Seiten dieses Internetauftritts liegen vorgefertigt auf dem Web-Server des Hosters und werden unverändert ausgeliefert, sobald Sie im Browser unsere URL eingeben oder auf einen Link auf unserer Seite klicken.
+Sie finden das zugehörige github repository unter: https://github.com/Dorfplatz-Rotensee/
+
 ## Website-Analyse
 Auf dieser Website werden keine Analyse- oder Tracking-Mechanismen zur Überwachung des Nutzerverhaltens durch uns eingesetzt. Wir erheben oder analysieren keine Daten zur Website-Nutzung. Es werden weder Nutzeraktivitäten durch uns verfolgt, noch persönliche Daten von Webseitenbesuchern gespeichert.
 
 ## Social Media Angebote
-Der Förderverein Dorfplatz Rotensee betreibt keinen öffentlichen Autritt in einem Social Media Portal (wie z.B. X, Facebook, Instagram, Bluesky, etc.).
+Der Förderverein Dorfplatz Rotensee betreibt keinen öffentlichen Autritt in einem Social Media Portal (wie z.B. X, Facebook, Instagram, Bluesky, etc.). Dementsprechend, und weil es sich um eine statische Homepage handelt, sind keine plugins oder aktiven Komponenten aus Social Media Angeboten in diese Homepage eingebettet, und sammeln dementsprechend auch keine Daten der Webseitenbesucher.
 
 ## Verknüpfte Dienste
 Diese Website enthält Links zu anderen Onlineangeboten außerhalb der Verantwortung des Betreibers dieser Seite. Wenn Sie diesen Links folgen, informieren Sie sich bitte über deren Nutzungsbedingungen.
