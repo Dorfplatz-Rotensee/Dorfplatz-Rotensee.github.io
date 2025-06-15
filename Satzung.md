@@ -9,4 +9,4 @@ permalink: /Satzung/
 
 # Mitglied werden
 Um Mitglied im Förderverein zu werden brauchen wir eine ausgefüllte [Beitrittserklärung](/files/Beitrittserklaerung.pdf) sowie [Einzugsermächtigung](/files/Einzugsermaechtigung.pdf).  
-Beides schickst du entweder per Post an unseren Vereinsvorstand (Kontaktdaten findest du hier im [Impressum](/Impressum), oder bringst es einfach vorbei.
+Beides schickst du entweder per Post an unseren Vereinsvorstand (Kontaktdaten findest du hier im [Impressum](/Impressum)), oder bringst es einfach vorbei.
