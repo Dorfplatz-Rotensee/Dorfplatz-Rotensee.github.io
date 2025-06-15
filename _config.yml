@@ -1,0 +1,21 @@
+# Setup
+title:               Dorfplatz-Rotensee
+tagline:             'Förderverein Dorfplatz Rotensee'
+description:         'Der Förderverein des Mehrgenerationen Spielplatz in Rotensee und seine Veranstaltungen stellen sich und ihren Dorfplatz vor.'
+url:                 https://dorfplatz-rotensee.de
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Nico Schwarz  
+  url:               https://dorfplatz-rotensee.de
+  email:             dorfplatz-rotensee@gmx.de
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.0
