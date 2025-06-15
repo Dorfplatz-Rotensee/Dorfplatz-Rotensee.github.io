@@ -1,6 +1,6 @@
 ---
-layout: page
-title: About
+layout: default
+title: Impressum
 ---
 
 Angaben gemäß § 5 TMG:
