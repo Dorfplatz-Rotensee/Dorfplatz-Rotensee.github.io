@@ -3,4 +3,5 @@ layout: default
 title: Home
 ---
 
-Under construction
+Under construction.
+To be updated soon.
