@@ -8,13 +8,20 @@ Angaben gemäß § 5 TMG:
 
 ## Verein:
 Förderverein Dorfplatz Rotensee
+
 Zur Burg 24
+
 36282 Hauneck
+
+
 Vertreten durch:
 
-1. Vorsitz: Herr Markus Zielke 
-2. Vorsitz: Herr Norman Fraatz
+1. Vorsitz: Herr Markus Zielke
+
+3. Vorsitz: Herr Norman Fraatz
+
 Kasse: Frau Friederike Schwarz
+
 Schriftührung: Frau Marion Hümmelink
 
 ## Kontakt: 
@@ -26,8 +33,10 @@ Gericht:Amtsgericht Bad Hersfeld
 
 ## Streitschlichtung
 
-Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: (https://ec.europa.eu/consumers/odr)
+Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: [(https://ec.europa.eu/consumers/odr)]
+
 Unsere E-Mail-Adresse finden Sie oben im Impressum.
+
 Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
 
 ## Haftung für Inhalte
