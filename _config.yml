@@ -13,7 +13,7 @@ show_downloads: false
 author:
   name:              Nico Schwarz  
   url:               https://dorfplatz-rotensee.de
-  email:             dorfplatz-rotensee@gmx.de
+  email:             foerderverein-dorfplatz-rotensee@gmx.de
 
 # Gems
 plugins:
