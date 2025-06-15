@@ -5,7 +5,7 @@ permalink: /Satzung/
 ---
 
 # Satzung
-[Hier](/_files/Vereinssatzung_FDR.pdf) findest du die Satzung des Förderverein Rotensee.
+[Hier](/files/Vereinssatzung_FDR.pdf) findest du die Satzung des Förderverein Rotensee.
 
 # Mitglied werden
 Um Mitglied im Förderverein zu werden brauchen wir eine ausgefüllte [Beitrittserklärung](/_files/Beitrittserklaerung.pdf) sowie [Einzugsermächtigung](/_files/Einzugsermaechtigung.pdf).  
