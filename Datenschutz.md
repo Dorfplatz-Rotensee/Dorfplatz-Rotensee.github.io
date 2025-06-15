@@ -1,26 +1,26 @@
 ---
 layout: default
 title: Datenschutz
-permalink:/Datenschutz/
+permalink: /Datenschutz/
 ---
 
 
 # Datenschutzerklärung
 Personenbezogene Daten (nachfolgend zumeist nur „Daten“ genannt) werden von uns nur im Rahmen der Erforderlichkeit sowie zum Zwecke der Bereitstellung eines funktionsfähigen und nutzerfreundlichen Internetauftritts, inklusive seiner Inhalte und der dort angebotenen Leistungen, verarbeitet.
-Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten (nachfolgend kurz „Daten“) innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte sowie externen Onlinepräsenzen, wie z.B. unser Social Media Profile auf. (nachfolgend gemeinsam bezeichnet als „Onlineangebot“). Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „Verarbeitung“ oder „Verantwortlicher“ verweisen wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO).
+Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten (nachfolgend kurz „Daten“) innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseite unter https://dorfplatz-rotensee.de, Funktionen und Inhalte auf (nachfolgend gemeinsam bezeichnet als „Onlineangebot“). Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „Verarbeitung“ oder „Verantwortlicher“ verweisen wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO).
 
 ## Verantwortliche
 
 Verantwortlicher Anbieter dieses Internetauftritts im datenschutzrechtlichen Sinne ist der Verein:  
-**Förderverein Dorfplatz Rotensee  
+Förderverein Dorfplatz Rotensee  
 Vertreten durch:  
-Erster Vorsitzender Markus Zielke
-E-Mail: Forderverein-Dorfplatz-Rotensee@gmx.de
+Erster Vorsitzender Markus Zielke  
+E-Mail: Forderverein-Dorfplatz-Rotensee (at) gmx.de
 
 ## Zweck der Verarbeitung
 
-– Zurverfügungstellung des Onlineangebotes, seiner Funktionen und Inhalte.
-– Beantwortung von Kontaktanfragen und Kommunikation mit Nutzern.
+– Zurverfügungstellung des Onlineangebotes, seiner Funktionen und Inhalte
+– Beantwortung von Kontaktanfragen und Kommunikation mit Nutzern.  
 – Sicherheitsmaßnahmen.
 
 ## Verwendete Begrifflichkeiten
@@ -30,7 +30,8 @@ E-Mail: Forderverein-Dorfplatz-Rotensee@gmx.de
 „Verarbeitung“ ist jeder mit oder ohne Hilfe automatisierter Verfahren ausgeführten Vorgang oder jede solche Vorgangsreihe im Zusammenhang mit personenbezogenen Daten. Der Begriff reicht weit und umfasst praktisch jeden Umgang mit Daten.
 
 Als „Verantwortlicher“ wird die natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten entscheidet, bezeichnet.
-Maßgebliche Rechtsgrundlagen
+
+## Maßgebliche Rechtsgrundlagen
 
 Nach Maßgabe des Art. 13 DSGVO teilen wir Ihnen die Rechtsgrundlagen unserer Datenverarbeitungen mit. Sofern die Rechtsgrundlage in der Datenschutzerklärung nicht genannt wird, gilt Folgendes: Die Rechtsgrundlage für die Einholung von Einwilligungen ist Art. 6 Abs. 1 lit. a und Art. 7 DSGVO, die Rechtsgrundlage für die Verarbeitung zur Erfüllung unserer Leistungen und Durchführung vertraglicher Maßnahmen sowie Beantwortung von Anfragen ist Art. 6 Abs. 1 lit. b DSGVO, die Rechtsgrundlage für die Verarbeitung zur Erfüllung unserer rechtlichen Verpflichtungen ist Art. 6 Abs. 1 lit. c DSGVO, und die Rechtsgrundlage für die Verarbeitung zur Wahrung unserer berechtigten Interessen ist Art. 6 Abs. 1 lit. f DSGVO. Für den Fall, dass lebenswichtige Interessen der betroffenen Person oder einer anderen natürlichen Person eine Verarbeitung personenbezogener Daten erforderlich machen, dient Art. 6 Abs. 1 lit. d DSGVO als Rechtsgrundlage.
 
@@ -72,19 +73,23 @@ Die von uns verarbeiteten Daten werden nach Maßgabe der Art. 17 und 18 DSGVO ge
 ## Hosting
 Die von uns in Anspruch genommenen Hosting-Leistungen dienen der Zurverfügungstellung der folgenden Leistungen: Infrastruktur- und Plattformdienstleistungen, Rechenkapazität, Speicherplatz, Sicherheitsleistungen sowie technische Wartungsleistungen, die wir zum Zwecke des Betriebs dieses Onlineangebotes einsetzen.
 
-Diese Website wird als statische Seite auf GitHub Pages-Website gehostet. GitHub kann personenbezogene Daten von Besuchern dieser GitHub Pages-Website erfassen, einschließlich Protokollen der Besucher-IP-Adressen, um gesetzlichen Verpflichtungen nachzukommen und die Sicherheit und Integrität dieser Website und des Dienstes zu gewährleisten. Weitere Informationen finden Sie in der Datenschutzerklärung von GitHub .
-[(https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement)]
+Diese Website wird als statische Seite auf GitHub Pages-Website gehostet. GitHub kann personenbezogene Daten von Besuchern dieser GitHub Pages-Website erfassen, einschließlich Protokollen der Besucher-IP-Adressen, um gesetzlichen Verpflichtungen nachzukommen und die Sicherheit und Integrität dieser Website und des Dienstes zu gewährleisten. 
+Weitere Informationen finden Sie in der Datenschutzerklärung von GitHub unter: https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement
 
-Github Inc.
-88 Colin P Kelly Jr St
-San Francisco
-CA 94107
-USA
+Github Inc.  
+88 Colin P Kelly Jr St  
+San Francisco  
+CA 94107  
+USA  
 
-Bitte beachten Sie zudem die [GitHub Privacy Policy (https://help.github.com/articles/github-privacy-policy/)] und [GitHub Global Privacy(https://help.github.com/articles/global-privacy-practices/)] Practices.
+Bitte beachten Sie zudem die [GitHub Privacy Policy](https://help.github.com/articles/github-privacy-policy/) und [GitHub Global Privacy](https://help.github.com/articles/global-privacy-practices/) Practices.
 
 ## Website-Analyse
-Auf dieser Website werden keine Analyse- oder Tracking-Mechanismen zur Überwachung des Nutzerverhaltens durch uns eingesetzt. Wir erheben oder analysieren keine Daten zur Website-Nutzung. Es werden weder Nutzeraktivitäten durch uns verfolgt, noch persönliche Daten gespeichert.
+Auf dieser Website werden keine Analyse- oder Tracking-Mechanismen zur Überwachung des Nutzerverhaltens durch uns eingesetzt. Wir erheben oder analysieren keine Daten zur Website-Nutzung. Es werden weder Nutzeraktivitäten durch uns verfolgt, noch persönliche Daten von Webseitenbesuchern gespeichert.
+
+## Social Media Angebote
+Der Förderverein Dorfplatz Rotensee betreibt keinen öffentlichen Autritt in einem Social Media Portal (wie z.B. X, Facebook, Instagram, Bluesky, etc.).
 
 ## Verknüpfte Dienste
-Diese Website enthält Links zu anderen Diensten. Wenn Sie diesen Links folgen, informieren Sie sich bitte über deren Nutzungsbedingungen.
+Diese Website enthält Links zu anderen Onlineangeboten außerhalb der Verantwortung des Betreibers dieser Seite. Wenn Sie diesen Links folgen, informieren Sie sich bitte über deren Nutzungsbedingungen.
+Der Förderverein Dorfplatz Rotensee hat keine Verantwortung für die Webseiten und Inhalte Dritter außerhalb dieses Onlineangebots.
