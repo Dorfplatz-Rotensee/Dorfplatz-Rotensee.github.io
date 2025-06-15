@@ -7,7 +7,7 @@ title: Home
 Willkommen auf dem Internetauftritt des *Förderverein Dorfplatz Rotensee*.
 Auf diesen Seiten stellen wir die Vereinstätigkeiten sowie unseren Dorfplatz vor. 
 Hast du Interesse dich auch zu engagieren und bei uns mitzumachen? [Hier](/Satzung) findest du unser Beitrittsformular.  
-Du Interessierst dich für den "Mehrgenerationen Dorfplatz Rotensee"? [Unter Geräte](/Geraete) findest du Informationen über die Einrichtungen dort.  
+Du Interessierst dich für den "Mehrgenerationen Dorfplatz Rotensee"? Unter [Geräte](/Geraete) findest du Informationen über die Einrichtungen dort.  
 Die Aktivitäten die von uns durchgeführt werden, bzw. an denen wir teilnehmen, findest du unter [Aktivitäten](/Aktivitaeten)  
 
 # Wer sind wir?
