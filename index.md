@@ -7,9 +7,9 @@ permalink: /index/
 # Willkommen
 Willkommen auf dem Internetauftritt des *Förderverein Dorfplatz Rotensee*.
 Auf diesen Seiten stellen wir die Vereinstätigkeiten sowie unseren Dorfplatz vor. 
-Hast du Interesse dich auch zu engagieren und bei uns mitzumachen? [Hier]() findest du unser Beitrittsformular.
-Du Interessierst dich für den "Mehrgenerationen Dorfplatz Rotensee"? [Unter Geräte]() findest du Informationen über die Einrichtungen dort.
-Die Aktivitäten die von uns durchgeführt werden, bzw. an denen wir teilnehmen, findest du unter [Aktivitäten]
+Hast du Interesse dich auch zu engagieren und bei uns mitzumachen? [Hier]() findest du unser Beitrittsformular.  
+Du Interessierst dich für den "Mehrgenerationen Dorfplatz Rotensee"? [Unter Geräte]() findest du Informationen über die Einrichtungen dort.  
+Die Aktivitäten die von uns durchgeführt werden, bzw. an denen wir teilnehmen, findest du unter [Aktivitäten]  
 
 # Wer sind wir?
 Der *Förderverein Dorfplatz Rotensee* wurde 2018 gegründet um die Neugestaltung eines Mehrgenerationen Spielplatzes, von uns auch einfach der "Dorfplatz" genannt, auf dem Gelände des "Festplatz" in Rotensee zu unterstützen. In dem Bereich des Festplatz wurde eine umfangreiche Anlage gestaltet, die für alle Altersklassen Spiel, Sport und Erholung bietet. Welche Spielgeräte und Sportmöglichkeiten es gibt, erfahrt ihr [hier](/Geraete).
