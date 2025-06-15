@@ -41,3 +41,6 @@ Eine Boulebahn lädt ein eine gemütliche "Kugel zu schieben".
 
 ## Picknicktisch
 Am Eingang zum Multifunktionsfeld steht auch ein Picknicktisch mit Bänken. Als Pausenmöglichkeit für die Spieler oder für das Publikum zum anfeuern.
+
+## WLAN
+Der Platz ist mit einem Freifunk WLAN ausgestattet, in das ihr euch einwählen könnt. *Dieser* Dorfplatz hat kein Funkloch!
