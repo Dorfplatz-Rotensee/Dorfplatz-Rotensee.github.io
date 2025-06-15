@@ -7,7 +7,7 @@ permalink: /Datenschutz/
 
 # Datenschutzerklärung
 Personenbezogene Daten (nachfolgend zumeist nur „Daten“ genannt) werden von uns nur im Rahmen der Erforderlichkeit sowie zum Zwecke der Bereitstellung eines funktionsfähigen und nutzerfreundlichen Internetauftritts, inklusive seiner Inhalte und der dort angebotenen Leistungen, verarbeitet.
-Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten (nachfolgend kurz „Daten“) innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseite unter https://dorfplatz-rotensee.de, Funktionen und Inhalte auf (nachfolgend gemeinsam bezeichnet als „Onlineangebot“). Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „Verarbeitung“ oder „Verantwortlicher“ verweisen wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO).
+Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten (nachfolgend kurz „Daten“) innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseite unter https://dorfplatz-rotensee.de bzw. https://dorfplatz-rotensee.github.io, Funktionen und Inhalte auf (nachfolgend gemeinsam bezeichnet als „Onlineangebot“). Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „Verarbeitung“ oder „Verantwortlicher“ verweisen wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO).
 
 ## Verantwortliche
 
@@ -18,9 +18,9 @@ Erster Vorsitzender Markus Zielke
 E-Mail: Forderverein-Dorfplatz-Rotensee (at) gmx.de
 
 ## Zweck der Verarbeitung
-– Zurverfügungstellung des Onlineangebotes, seiner Funktionen und Inhalte.
-– Beantwortung von Kontaktanfragen und Kommunikation mit Nutzern.
-– Sicherheitsmaßnahmen.
+- Zurverfügungstellung des Onlineangebotes, seiner Funktionen und Inhalte.
+- Beantwortung von Kontaktanfragen und Kommunikation mit Nutzern.
+- Sicherheitsmaßnahmen.
 
 ## Verwendete Begrifflichkeiten
 
