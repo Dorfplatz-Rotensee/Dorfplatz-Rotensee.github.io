@@ -16,7 +16,7 @@ Der großzügige Sandkasten zum buddeln und bauen wird mit Spenden für Sandspie
 Der Schwebe- Wackelbalken für alle die ihre Balancierkünste unter Beweis stellen wollen, oder einfach Spaß an der Herausforderung haben.
 
 ## Trampolin
-Das stabile Outdoor Trampolin ist lädt zum Hüpfen und Turnen alle Altersklassen ein.
+Das stabile Outdoor Trampolin lädt zum Hüpfen und Turnen alle Altersklassen ein.
 
 ## Spielturm mit Rutsche und Kletterwand
 Zentral auf dem Platz steht der Spielturm mit einer Rutsche, Kletterwand, Rutschstange, Hängebrücke und Spielfenster. Perfekt zum Toben und fantasievollem Spielen.
