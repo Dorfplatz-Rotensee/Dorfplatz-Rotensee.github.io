@@ -7,26 +7,19 @@ permalink: /Impressum/
 Angaben gemäß § 5 TMG:
 
 ## Verein:
-Förderverein Dorfplatz Rotensee
+Förderverein Dorfplatz Rotensee  
+Zur Burg 24  
+36282 Hauneck  
 
-Zur Burg 24
-
-36282 Hauneck
-
-
-Vertreten durch:
-
-1. Vorsitz: Herr Markus Zielke
-
-3. Vorsitz: Herr Norman Fraatz
-
-Kasse: Frau Friederike Schwarz
-
-Schriftührung: Frau Marion Hümmelink
+Vertreten durch:  
+1. Vorsitz: Herr Markus Zielke  
+3. Vorsitz: Herr Norman Fraatz  
+Kasse: Frau Friederike Schwarz  
+Schriftührung: Frau Marion Hümmelink  
 
 ## Kontakt: 
 
-Telefon: +49 (0)
+Telefon: +49 (0)  
 E-Mail: Forderverein-Dorfplatz-Rotensee(at)gmx.de
 
 Gericht:Amtsgericht Bad Hersfeld
