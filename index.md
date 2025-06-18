@@ -4,6 +4,7 @@ title: Home
 ---
 
 # Willkommen
+<img align="right" src="assets/bilder/Frosch.jpg" alt="Frosch-Logo">
 Willkommen auf dem Internetauftritt des *Förderverein Dorfplatz Rotensee*.
 Auf diesen Seiten stellen wir die Vereinstätigkeiten sowie unseren Dorfplatz vor. 
 Hast du Interesse dich auch zu engagieren und bei uns mitzumachen? [Hier](/Satzung) findest du unser Beitrittsformular.  
