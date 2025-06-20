@@ -20,7 +20,7 @@ Schriftührung: Frau Marion Hümmelink
 
 ## Kontakt: 
 
-Telefon: +49 (0)162 139 6731
+Telefon: +49 (0)162 139 6731  
 E-Mail: Forderverein-Dorfplatz-Rotensee(at)gmx.de
 
 Gericht:Amtsgericht Bad Hersfeld
