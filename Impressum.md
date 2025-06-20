@@ -27,7 +27,7 @@ Gericht:Amtsgericht Bad Hersfeld
 
 ## Streitschlichtung
 
-Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: (https://ec.europa.eu/consumers/odr)
+Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: https://ec.europa.eu/consumers/odr
 
 Unsere E-Mail-Adresse finden Sie oben im Impressum.
 
