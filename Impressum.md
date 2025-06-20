@@ -23,7 +23,7 @@ Schriftührung: Frau Marion Hümmelink
 Telefon: +49 (0)162 139 6731  
 E-Mail: Foerderverein-Dorfplatz-Rotensee(at)gmx.de
 
-Gericht:Amtsgericht Bad Hersfeld
+Gericht: Amtsgericht Bad Hersfeld
 
 ## Streitschlichtung
 
